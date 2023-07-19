@@ -7,7 +7,10 @@ import javafx.scene.image.ImageView;
 import javafx.scene.input.MouseEvent;
 import main.Main;
 import main.MyListener;
+import model.CorrectImageQuestion;
 import model.Question;
+
+import java.util.List;
 
 public class ItemController {
     @FXML
@@ -21,11 +24,17 @@ public class ItemController {
     private Question question;
     private MyListener myListener;
 
+
     public void setData(Question question, MyListener myListener) {
         this.question = question;
         this.myListener = myListener;
 
         Image image = new Image(getClass().getResourceAsStream(question.getImgSrc()));
+        img.setImage(image);
+    }
+
+    public void changeImageToCorrectImage () {
+        Image image = new Image("/img/kiwi.png");
         img.setImage(image);
     }
 }

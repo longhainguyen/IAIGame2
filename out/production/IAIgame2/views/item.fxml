@@ -21,6 +21,5 @@
    <styleClass>
       <String fx:value="shadow" />
       <String fx:value="fruit-item" />
-      <String fx:value="shopping-online-card" />
    </styleClass>
 </AnchorPane>
