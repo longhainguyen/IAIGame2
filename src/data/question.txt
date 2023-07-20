@@ -6,7 +6,7 @@ answer2 b. Giải phóng dân tộc, giải phóng giai cấp và giải phóng 
 answer3 c. Giải phóng các dân tộc thuộc địa
 answer4 d. Giải phóng giai cấp và giải phóng con người
 correct 1
-src /img/coconut.png
+src /img/BacHo.jpg
 #####
 id 2
 question Nguyễn Ái Quốc gởi bản “Yêu sách của nhân dân An Nam” tới Hội nghị Vecxay vào ngày tháng năm nào?
@@ -15,7 +15,7 @@ answer2 b. 18/6/1919
 answer3 c. 18/6/1918
 answer4 d. 18/6/1920
 correct 2
-src /img/coconut.png
+src /img/BacHo.jpg
 #####
 id 3
 question Mục đích tư tưởng Hồ Chí Minh là gì?
@@ -24,7 +24,7 @@ answer2 b. Giải phóng dân tộc, giải phóng giai cấp và giải phóng 
 answer3 c. Giải phóng các dân tộc thuộc địa
 answer4 d. Giải phóng giai cấp và giải phóng con người
 correct 1
-src /img/coconut.png
+src /img/BacHo.jpg
 #####
 id 4
 question Mục đích tư tưởng Hồ Chí Minh là gì?
@@ -33,7 +33,7 @@ answer2 b. Giải phóng dân tộc, giải phóng giai cấp và giải phóng 
 answer3 c. Giải phóng các dân tộc thuộc địa
 answer4 d. Giải phóng giai cấp và giải phóng con người
 correct 1
-src /img/coconut.png
+src /img/BacHo.jpg
 #####
 id 5
 question Mục đích tư tưởng Hồ Chí Minh là gì?
@@ -42,7 +42,7 @@ answer2 b. Giải phóng dân tộc, giải phóng giai cấp và giải phóng 
 answer3 c. Giải phóng các dân tộc thuộc địa
 answer4 d. Giải phóng giai cấp và giải phóng con người
 correct 1
-src /img/coconut.png
+src /img/BacHo.jpg
 #####
 id 6
 question Mục đích tư tưởng Hồ Chí Minh là gì?
@@ -51,7 +51,7 @@ answer2 b. Giải phóng dân tộc, giải phóng giai cấp và giải phóng 
 answer3 c. Giải phóng các dân tộc thuộc địa
 answer4 d. Giải phóng giai cấp và giải phóng con người
 correct 1
-src /img/coconut.png
+src /img/BacHo.jpg
 #####
 id 7
 question Mục đích tư tưởng Hồ Chí Minh là gì?
@@ -60,7 +60,7 @@ answer2 b. Giải phóng dân tộc, giải phóng giai cấp và giải phóng 
 answer3 c. Giải phóng các dân tộc thuộc địa
 answer4 d. Giải phóng giai cấp và giải phóng con người
 correct 1
-src /img/coconut.png
+src /img/BacHo.jpg
 #####
 id 8
 question Mục đích tư tưởng Hồ Chí Minh là gì?
@@ -69,7 +69,7 @@ answer2 b. Giải phóng dân tộc, giải phóng giai cấp và giải phóng 
 answer3 c. Giải phóng các dân tộc thuộc địa
 answer4 d. Giải phóng giai cấp và giải phóng con người
 correct 1
-src /img/coconut.png
+src /img/BacHo.jpg
 #####
 id 9
 question Mục đích tư tưởng Hồ Chí Minh là gì?
@@ -78,7 +78,7 @@ answer2 b. Giải phóng dân tộc, giải phóng giai cấp và giải phóng 
 answer3 c. Giải phóng các dân tộc thuộc địa
 answer4 d. Giải phóng giai cấp và giải phóng con người
 correct 1
-src /img/coconut.png
+src /img/BacHo.jpg
 #####
 id 10
 question Mục đích tư tưởng Hồ Chí Minh là gì?

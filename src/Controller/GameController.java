@@ -25,6 +25,10 @@ import java.util.ResourceBundle;
 
 public class GameController implements Initializable {
     private List<ItemController> itemControllerList = new ArrayList<>();
+
+    @FXML
+    private VBox vboxMainQuestion;
+
     @FXML
     private ToggleGroup answer;
 
@@ -131,7 +135,8 @@ public class GameController implements Initializable {
 
                 ItemController itemController = fxmlLoader.getController();
                 itemControllerList.add(itemController);
-                itemController.setData(questions.get(i),myListener);
+//                itemController.setData(questions.get(i),myListener);
+                itemController.setSecret(myListener, questions.get(i));
 
                 if (column == 3) {
                     column = 0;
@@ -152,6 +157,20 @@ public class GameController implements Initializable {
 
             }
         } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        try {
+            FXMLLoader fxmlLoader = new FXMLLoader();
+            fxmlLoader.setLocation(getClass().getResource("/views/mainQuestion.fxml"));
+            AnchorPane anchorPane = fxmlLoader.load();
+
+            MainQuestionController mainQuestionController = fxmlLoader.getController();
+            mainQuestionController.setData();
+            mainQuestionController.setBoxAnswer();
+            vboxMainQuestion.getChildren().add(anchorPane);
+
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
